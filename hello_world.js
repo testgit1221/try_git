@@ -1,1 +1,1 @@
-console.log('Hello world! I love you!');
+console.log('Hello world! I hate you! Nick Shama.©');
